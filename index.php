@@ -9,5 +9,9 @@
 <body>
     <h1>Hai Kamu lagi</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur minima perspiciatis ullam, officiis voluptatum, ipsum excepturi ducimus natus dolorum repellendus dolore quam deleniti! Modi cupiditate reprehenderit rerum animi accusantium beatae.</p>
+<ul>
+<li>satu</li>
+<li>dua</li>
+</ul>
 </body>
 </html>
